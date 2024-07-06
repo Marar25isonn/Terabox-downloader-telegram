@@ -12,7 +12,7 @@ This bot allows you to download files from Terabox and more through Telegram.
 ## Required environment variables
  `BOT_TOKEN` : Telegram Bot Token
 
- `WEBHOOK_URL` : Webhook URL of bot (your server url)...
+ `WEBHOOK_URL` : https://api.render.com/deploy/srv-cq4hnv5ds78s73ckck0g?key=HvD8hNhGIj8
 
 Video Tutorial 
 [Deploy on Heroku{paid}](https://youtu.be/KECEaNLRP2Q?si=4Ml3y_ikoxwT0qDG)
